@@ -1,0 +1,99 @@
+Hodnota,Vyznam,Odkaz
+100,primární sektor,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_PrimaryProduction
+110,zemědělství,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_1_Agriculture
+111,komerční zemědělská výroba,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_1_1_CommercialAgriculturalProduction
+112,zemědělská infrastruktura,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_1_2_FarmingInfrastructure
+113,zemědělská produkce pro vlastní spotřebu,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_1_3_AgriculturalProductionForOwnConsumption
+120,lesnictví,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_2_Forestry
+121,lesnictví založené na krátkodobém obmýtí,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_2_1_ForestryBasedOnShortRotation
+122,lesnictví založené na střednědobém nebo dlouhodobém obmýtí,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_2_2_ForestryBasedOnIntermediateOrLongRotation
+123,lesnictví založené na kontinuálním pokryvu,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_2_3_ForestryBasedOnContinuousCover
+130,těžba a dobývání,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_3_MiningAndQuarrying
+131,těžba energetických surovin,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_3_1_MiningOfEnergyProducingMaterials
+132,těžba rud,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_3_2_MiningOfMetalOres
+133,ostatní těžba a dobývání,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_3_3_OtherMiningAndQuarrying
+140,akvakultura a rybolov,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_4_AquacultureAndFishing
+141,akvakultura,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_4_1_Aquaculture
+142,profesionální rybolov,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_4_2_ProfessionalFishing
+150,primární sektor ostatní,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_5_OtherPrimaryProduction
+151,myslivost,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_5_1_Hunting
+152,péče o migrující zvířata,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_5_2_ManagementOfMigratoryAnimals
+153,sběr přírodních produktů,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_5_3_PickingOfNaturalProducts
+200,sekundární sektor,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_SecondaryProduction
+210,zpracovatelský průmysl,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_RawIndustry
+211,výroba textilních výrobků,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_1_ManufacturingOfTextileProducts
+212,zpracování dřeva a výroba dřevěných výrobků a výrobků na bázi dřeva,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_2_ManufacturingOfWoodAndWoodBasedProducts
+213,"výroba buničiny, papíru a výrobků z papíru",http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_3_ManufacturingOfPulpPaperAndPaperProducts
+214,výroba koksu a rafinovaných ropných produktů a jaderného paliva,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_4_ManufacturingOfCokeRefinedPetroleumProductsAndNuclearFuel
+215,"výroba chemických látek, chemických výrobků a umělých vláken",http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_5_ManufacturingOfChemicalsChemicalProductsManMadeFibers
+216,"výroba základních kovů, hutních a kovodělných výrobků",http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_6_ManufacturingOfBasicMetalsAndFabricatedMetals
+217,výroba nekovových minerálních výrobků,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_7_ManufacturingOfNonMetallicMineralProducts
+218,výroba pryžových a plastových výrobků,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_8_ManufacturingOfRubberPlasticProducts
+219,výroba ostatních materiálů a výrobků zpracovatelského průmyslu,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_1_9_ManufacturingOfOtherRawMaterials
+220,těžký průmysl,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_2_HeavyEndProductIndustry
+221,výroba strojů,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_2_1_ManufacturingOfMachinery
+222,výroba vozidel a dopravních prostředků a zařízení,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_2_2_ManufacturingOfVehiclesAndTransportEquipment
+223,výroba ostatních výrobků těžkého průmyslu,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_2_3_ManufacturingOfOtherHeavyEndProducts
+230,lehký průmysl,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_3_LightEndProductIndustry
+231,"výroba potravinářských výrobků, nápojů a tabákových výrobků",http://inspire.ec.europa.eu/codelist/HILUCSValue/2_3_1_ManufacturingOfFoodBeveragesAndTobaccoProducts
+232,výroba oděvů a usní,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_3_2_ManufacturingOfClothesAndLeather
+233,vydavatelské a tiskařské činnosti,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_3_3_PublishingAndPrinting
+234,výroba elektrických a optických přístrojů a zařízení,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_3_4_ManufacturingOfElectricalAndOpticalEquipment
+235,výroba ostatních výrobků lehkého průmyslu,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_3_5_ManufacturingOfOtherLightEndProducts
+240,výroba energie,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_4_EnergyProduction
+241,výroba jaderné energie,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_4_1_NuclearBasedEnergyProduction
+242,výroba energie z fosilních paliv,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_4_2_FossilFuelBasedEnergyProduction
+243,výroba energie z biomasy,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_4_3_BiomassBasedEnergyProduction
+244,výroba energie z obnovitelných zdrojů,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_4_4_RenewableEnergyProduction
+250,jiný průmysl,http://inspire.ec.europa.eu/codelist/HILUCSValue/2_5_OtherIndustry
+300,terciární produkce,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_TertiaryProduction
+310,komerční služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_1_CommercialServices
+311,"velkoobchod a maloobchod; opravy a údržba motorových vozidel, výrobků pro osobní potřebu a převážně pro domácnost",http://inspire.ec.europa.eu/codelist/HILUCSValue/3_1_1_WholesaleAndRetailTradeAndRepairOfVehiclesAndPersonalAndHouseholdGoods
+312,služby v oblasti nemovitostí,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_1_2_RealEstateServices
+313,"ubytování, stravování a pohostinství",http://inspire.ec.europa.eu/codelist/HILUCSValue/3_1_3_AccommodationAndFoodServices
+314,jiné komerční služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_1_4_OtherCommercialServices
+320,"finanční, odborné a informační služby",http://inspire.ec.europa.eu/codelist/HILUCSValue/3_2_FinancialProfessionalAndInformationServices
+321,služby v oblasti peněžnictví a pojišťovnictví,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_2_1_FinancialAndInsuranceServices
+322,odborné technické a vědecké služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_2_2_ProfessionalTechnicalAndScientificServices
+323,informační a komunikační služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_2_3_InformationAndCommunicationServices
+324,administrativní a doplňkové služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_2_4_AdministrativeAndSupportServices
+325,"jiné finanční, odborné a informační služby",http://inspire.ec.europa.eu/codelist/HILUCSValue/3_2_5_OtherFinancialProfessionalAndInformationServices
+330,služby pro obyvatelstvo,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_3_CommunityServices
+331,"veřejná správa, obrana a služby sociálního zabezpečení",http://inspire.ec.europa.eu/codelist/HILUCSValue/3_3_1_PublicAdministrationDefenceAndSocialSecurityServices
+332,služby v oblasti vzdělávání,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_3_2_EducationalServices
+333,zdravotnictví a sociální služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_3_3_HealthAndSocialServices
+334,náboženské služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_3_4_ReligiousServices
+335,jiné služby pro obyvatelstvo,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_3_5_OtherCommunityServices
+340,"kulturní, umělecké a ostatní zábavní a rekreační služby",http://inspire.ec.europa.eu/codelist/HILUCSValue/3_4_CulturalEntertainmentAndRecreationalServices
+341,kulturní služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_4_1_CulturalServices
+342,zábavní služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_4_2_EntertainmentServices
+343,sportovní infrastruktura,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_4_3_SportsInfrastructure
+344,venkovní rekreační oblasti,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_4_4_OpenAirRecreationalAreas
+345,ostatní rekreační služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_4_5_OtherRecreationalServices
+350,ostatní služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/3_5_OtherServices
+400,"dopravní sítě, logistika a inženýrské sítě",http://inspire.ec.europa.eu/codelist/HILUCSValue/4_TransportNetworksLogisticsAndUtilities
+410,dopravní sítě,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_1_TransportNetworks
+411,silniční doprava,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_1_1_RoadTransport
+412,kolejová doprava,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_1_2_RailwayTransport
+413,letecká doprava,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_1_3_AirTransport
+414,vodní doprava,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_1_4_WaterTransport
+415,jiná dopravní síť,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_1_5_OtherTransportNetwork
+420,logistické a skladovací služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_2_LogisticalAndStorageServices
+430,veřejné služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_3_Utilities
+431,"služby v oblasti rozvodu elektřiny, plynu a tepelné energie",http://inspire.ec.europa.eu/codelist/HILUCSValue/4_3_1_ElectricityGasAndThermalPowerDistributionServices
+432,infrastruktura vodovodů a kanalizací,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_3_2_WaterAndSewageInfrastructure
+433,nakládání s odpady,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_3_3_WasteTreatment
+434,další veřejné služby,http://inspire.ec.europa.eu/codelist/HILUCSValue/4_3_4_OtherUtilities
+500,bydlení,http://inspire.ec.europa.eu/codelist/HILUCSValue/5_ResidentialUse
+510,čistě obytné území,http://inspire.ec.europa.eu/codelist/HILUCSValue/5_1_PermanentResidentialUse
+520,smíšené obytné území,http://inspire.ec.europa.eu/codelist/HILUCSValue/5_2_ResidentialUseWithOtherCompatibleUses
+530,ostatní obytné území,http://inspire.ec.europa.eu/codelist/HILUCSValue/5_3_OtherResidentialUse
+600,jiné využití,http://inspire.ec.europa.eu/codelist/HILUCSValue/6_OtherUses
+610,staveniště,http://inspire.ec.europa.eu/codelist/HILUCSValue/6_1_TransitionalAreas
+620,opuštěné plochy,http://inspire.ec.europa.eu/codelist/HILUCSValue/6_2_AbandonedAreas
+630,"přírodní plochy, které nejsou jinak hospodářsky využívány",http://inspire.ec.europa.eu/codelist/HILUCSValue/6_3_NaturalAreasNotInOtherEconomicUse
+631,"plochy, které nejsou jinak hospodářsky využívány",http://inspire.ec.europa.eu/codelist/HILUCSValue/6_3_1_LandAreasNotInOtherEconomicUse
+632,"vodní plochy, které nejsou jinak hospodářsky využívány",http://inspire.ec.europa.eu/codelist/HILUCSValue/6_3_2_WaterAreasNotInOtherEconomicUse
+640,"plochy, kde je povoleno jakékoli využití",http://inspire.ec.europa.eu/codelist/HILUCSValue/6_4_AreasWhereAnyUseAllowed
+650,"plochy, jejichž plánované využití není specifikováno",http://inspire.ec.europa.eu/codelist/HILUCSValue/6_5_AreasWithoutAnySpecifiedPlannedUse
+660,neznámé využití,http://inspire.ec.europa.eu/codelist/HILUCSValue/6_6_NotKnownUse
