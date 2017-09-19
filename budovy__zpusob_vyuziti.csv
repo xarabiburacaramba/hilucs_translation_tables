@@ -7,7 +7,7 @@ ZpusobVyuzitiKod,Vyznam,HILUCS
 6,bytový dům,510
 7,rodinný dům,510
 8,stavba pro rodinnou rekreaci,520
-9,stavba pro shromažďování většího počtu osob,313
+9,stavba pro shromažďování většího počtu osob,300
 10,stavba pro obchod,311
 11,stavba ubytovacího zařízení,313
 12,stavba pro výrobu a skladování,200
@@ -26,6 +26,6 @@ ZpusobVyuzitiKod,Vyznam,HILUCS
 25,hráz ohrazující umělou vodní nádrž,432
 26,jez,432
 27,stavba k plaveb.účelům v korytech nebo na březích vod.toků,432
-28,stavba k využití vodní energie (vodní elektrárna),432
+28,stavba k využití vodní energie (vodní elektrárna),244
 29,stavba odkaliště,432
 30,rozestavěné jednotky,660
